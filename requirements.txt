@@ -1,0 +1,8 @@
+numpy==1.18.5
+Pillow==7.1.2
+pkg-resources==0.0.0
+six==1.15.0
+snowballstemmer==2.0.0
+webcolors==1.11.1
+wxPython==4.1.0
+wxwidgets==1.0.5
