@@ -5,7 +5,10 @@ This isn't anything sophisticated, just a very simple calculator application don
 
 To get up and running I'll assume you want to run this from a Python virtual environment and you've got the executable 'python3' available on a command line:
 
+```
 python3 -m venv venv-wxcalc
+```
+
 ./venv-wxcalc/bin/activate  # Linux/macOS
 .\venv-wxcalc\scripts\activate # Windows
 pip install wxwidgets # -or-
